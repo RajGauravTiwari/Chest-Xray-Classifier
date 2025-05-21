@@ -4,6 +4,8 @@ This project implements a deep learning model for classifying chest X-ray images
 
 ## 🩺 Project Overview
 
+- firstly install the chest x ray data set from the kaggle its a genral data set will be avaialable in one search use the zip dataset to run pythonn notebook.
+
 - **Input**: Chest X-ray images  
 - **Model**: Pre-trained VGG16 (ImageNet weights)  
 - **Techniques**:
