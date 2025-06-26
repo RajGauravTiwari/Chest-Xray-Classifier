@@ -17,9 +17,8 @@ This project implements a deep learning model for classifying chest X-ray images
 ## 📁 Folder Structure
 
 /Chest_X-RAY_CLassifier
-│
-├── Chest_X-RAY_CLassifier.ipynb # Jupyter notebook with full pipeline
-├── README.md # This file
+├── Chest_X-RAY_CLassifier.ipynb # Jupyter notebook with full pipeline.
+├── README.md # This file.
 
 
 ## 🧠 Model Architecture
