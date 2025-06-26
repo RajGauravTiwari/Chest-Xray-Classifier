@@ -12,13 +12,12 @@ This project implements a deep learning model for classifying chest X-ray images
   - Transfer Learning  
   - Image Augmentation  
   - Fine-tuning VGG16  
-- **Dataset**: Public dataset structured in `/train` and `/test` folders inside a ZIP archive.
+- **Dataset**: Can be downloaded on Kaggle.
 
 ## 📁 Folder Structure
 
 /Chest_X-RAY_CLassifier
 │
-├── archive.zip # Contains chest_xray/train and chest_xray/test
 ├── Chest_X-RAY_CLassifier.ipynb # Jupyter notebook with full pipeline
 ├── README.md # This file
 
